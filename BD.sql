@@ -1,0 +1,1 @@
+SELECT * FROM latitudeandlongitudeandtime.position;
